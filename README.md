@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **TRAINER PROFILE**
+## <img src="https://tenor.com/view/hi-beeg-hey-beeg-hi-beeg-pokemon-gif-24637787" width="35"> **TRAINER PROFILE**
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="100"/>
