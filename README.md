@@ -18,14 +18,14 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    🎮 TRAINER CARD 🎮                      │
+│                    🎮 TRAINER CARD 🎮                                  │
 ├─────────────────────────────────────────────────────────────┤
-│ NAME: Swarnajit Roy                                         │
-│ ID: #2024                                                   │
-│ REGION: India                                               │
-│ SPECIALTY: Neural Network Taming                            │
-│ CURRENT STREAK: Learning Every Day                          │
-│ LEGENDARY STATUS: Python Master                             │
+│ NAME: Swarnajit Roy                                                    │
+│ ID: #2024                                                              │
+│ REGION: India                                                          │
+│ SPECIALTY: Neural Network Taming                                       │      
+│ CURRENT STREAK: Learning Every Day                                     │
+│ LEGENDARY STATUS: Python Master                                        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
