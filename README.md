@@ -13,7 +13,7 @@
 ## <img src="https://tenor.com/view/hi-beeg-hey-beeg-hi-beeg-pokemon-gif-24637787" width="35"> **TRAINER PROFILE**
 
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="100"/>
+  <img src="<div class="tenor-gif-embed" data-postid="24637787" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hi-beeg-hey-beeg-hi-beeg-pokemon-gif-24637787">Hi Beeg Hey Beeg Sticker</a>from <a href="https://tenor.com/search/hi+beeg-stickers">Hi Beeg Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="100"/>
 </div>
 
 ```
