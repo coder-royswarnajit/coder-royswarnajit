@@ -180,7 +180,7 @@ class DeepfakeGuardian:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/swarnajit-roy-7a4879286)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/coder-royswarnajit)
-[![Email](https://img.shields.io/badge/Challenge_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Challenge_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:royswarnajit341@gmail.com)
 
 </div>
 
