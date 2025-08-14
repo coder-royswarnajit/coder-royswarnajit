@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to Swarnajit's Pokémon Coding Universe!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd2dDRqN2tyMWRkeGhidHdkaHBoOXprYzBxejl2ZGVlNWh5ZXhscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCyniAPKaxtc1MskNq/giphy.gif" width="600" height="300"/>
 </div>
 
 <div align="center">
