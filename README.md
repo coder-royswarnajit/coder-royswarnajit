@@ -1,150 +1,231 @@
-# 🌟 Welcome to Swarnajit's Pokémon Coding Journey! 🌟
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to Swarnajit's Pokémon Coding Universe!
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="600" height="300"/>
 </div>
 
-## 🎯 **Trainer Card**
-```
-╔══════════════════════════════════════════════════════════════╗
-║  👨‍💻 TRAINER: Swarnajit Roy                                    ║
-║  🏆 RANK: Python Master                                      ║
-║  📍 REGION: India (Kanto-inspired coding dojo)              ║
-║  🎖️  BADGES: AI/ML Specialist, Deep Learning Champion       ║
-║  ⚡ FAVORITE TYPE: Electric/Psychic (AI & Neural Networks)   ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🔥 **My Pokémon Team (Tech Stack)**
-
 <div align="center">
-
-| **Pokémon** | **Type** | **Move** | **Power Level** |
-|-------------|----------|----------|-----------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 🐍 Serpent | *Code Crush* | ⭐⭐⭐⭐⭐ |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | 🧠 Psychic | *Neural Strike* | ⭐⭐⭐⭐ |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | 🔥 Fire | *Deep Learning Flamethrower* | ⭐⭐⭐⭐ |
-| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ⚡ Electric | *App Deploy* | ⭐⭐⭐ |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | 🐼 Normal | *Data Manipulation* | ⭐⭐⭐⭐ |
-| ![Scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | 🔬 Science | *ML Algorithm* | ⭐⭐⭐⭐ |
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=35&duration=1000&pause=1000&color=FFCB05&background=3D7DCA00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=TRAINER+SWARNAJIT;PYTHON+MASTER;AI+SPECIALIST" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎭 **Legendary Projects - My Elite Four**
-
-### 🔮 **Poke-Summarizer** - *The Psychic Type*
-```python
-# A legendary Pokémon that can read minds and summarize any content!
-def poke_summarize(content_type):
-    if content_type in ["document", "video", "audio"]:
-        return "⚡ Ultra-fast, multi-language summaries!"
-    return "🌟 Real-time credible insights for teams!"
-```
-*Special Ability*: Information overload immunity ✨
-
-### 🔋 **Battery-Prediction** - *The Electric Type*
-```python
-# Like Pikachu, but for predicting battery life!
-def predict_battery_life(device_data):
-    ensemble_models = ["Random Forest", "XGBoost", "Neural Network"]
-    return f"⚡ Battery will last: {prediction} hours!"
-```
-*Special Move*: Ensemble Thunder ⚡
-
-### 💝 **Dudil** - *The Fairy Type*
-```python
-# An empathetic Pokémon that understands emotions
-def emotional_response(user_message):
-    emotion = detect_emotion_with_distilbert(user_message)
-    return generate_empathetic_response(emotion)
-```
-*Special Ability*: Emotion Sense & Healing Heart 💖
-
-### 🕵️ **Deepfake-Detection** - *The Fighting Type*
-```python
-# A guardian Pokémon protecting against digital deception
-def detect_deepfake(image):
-    ensemble_power = combine([EfficientNet, ResNet, ViT])
-    return "🛡️ REAL" if authentic else "⚔️ FAKE DETECTED!"
-```
-*Special Move*: Truth Punch 👊
-
----
-
-## 📊 **Trainer Stats Dashboard**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **TRAINER PROFILE**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coder-royswarnajit&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=🎮 Pokémon Trainer Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-royswarnajit&layout=compact&langs_count=7&theme=radical&custom_title=🔥 Type Effectiveness Chart"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="100"/>
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    🎮 TRAINER CARD 🎮                      │
+├─────────────────────────────────────────────────────────────┤
+│ NAME: Swarnajit Roy                                         │
+│ ID: #2024                                                   │
+│ REGION: India                                               │
+│ SPECIALTY: Neural Network Taming                           │
+│ CURRENT STREAK: Learning Every Day                         │
+│ LEGENDARY STATUS: Python Master                            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 </div>
 
 ---
 
-## 🌈 **Current Quest Log**
-
-```
-🎯 ACTIVE QUESTS:
-├─ 🧠 Mastering Advanced Neural Network Architectures
-├─ 🤖 Building Next-Gen AI Applications  
-├─ 🔬 Exploring Computer Vision Frontiers
-├─ 📚 Collecting ML Research Papers (Pokédex Style)
-└─ 🌟 Contributing to Open Source Ecosystem
-
-💎 LEGENDARY QUEST:
-└─ 🏆 Becoming a Pokémon Master of AI/ML!
-```
-
----
-
-## 🎪 **Battle Arena - Connect With Me!**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **MY POKÉMON PARTY**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnajit-roy-7a4879286)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coder-royswarnajit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-*"Gotta code 'em all!"* 🎵
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="80"><br>
+<b>Python</b><br>
+⚡ Electric Type<br>
+<img src="https://img.shields.io/badge/Level-95-yellow?style=flat-square&logo=python&logoColor=white">
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="80"><br>
+<b>TensorFlow</b><br>
+🔮 Psychic Type<br>
+<img src="https://img.shields.io/badge/Level-88-purple?style=flat-square&logo=tensorflow&logoColor=white">
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" width="80"><br>
+<b>PyTorch</b><br>
+🔥 Fire Type<br>
+<img src="https://img.shields.io/badge/Level-85-red?style=flat-square&logo=pytorch&logoColor=white">
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png" width="80"><br>
+<b>Streamlit</b><br>
+🌊 Water Type<br>
+<img src="https://img.shields.io/badge/Level-78-blue?style=flat-square&logo=streamlit&logoColor=white">
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png" width="80"><br>
+<b>Pandas</b><br>
+😴 Normal Type<br>
+<img src="https://img.shields.io/badge/Level-90-gray?style=flat-square&logo=pandas&logoColor=white">
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png" width="80"><br>
+<b>Scikit-Learn</b><br>
+🔮 Psychic Type<br>
+<img src="https://img.shields.io/badge/Level-82-indigo?style=flat-square&logo=scikit-learn&logoColor=white">
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎨 **Pokédex Entry**
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **LEGENDARY PROJECTS - ELITE FOUR BATTLE**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="400"/>
+</div>
+
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="30"> **MEWTWO - Poke-Summarizer**
+```python
+class PokeSummarizer:
+    type = "Psychic"
+    ability = "Mind Reader"
+    
+    def ultimate_move(self):
+        return "📄➡️📝 Content Compression Beam!"
+    
+    def stats(self):
+        return {
+            "Languages": "Multi-lingual",
+            "Speed": "Real-time",
+            "Accuracy": "Legendary"
+        }
+```
+
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png" width="30"> **ZAPDOS - Battery Prediction**
+```python
+class BatteryPredictor:
+    type = "Electric"
+    ability = "Voltage Forecast"
+    
+    def thunder_strike(self):
+        return "⚡ 12+ ML Algorithm Thunder!"
+    
+    def prediction_power(self):
+        return "🔋 Lifespan Vision Activated!"
+```
+
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png" width="30"> **MEW - Dudil (Empathy Bot)**
+```python
+class EmpathyMew:
+    type = "Psychic/Fairy"
+    ability = "Emotion Sync"
+    
+    def healing_pulse(self):
+        return "💖 DistilBERT Heart Reading + Gemini Response!"
+    
+    def special_trait(self):
+        return "🌈 Pure Emotional Intelligence"
+```
+
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png" width="30"> **LUGIA - Deepfake Detection**
+```python
+class DeepfakeGuardian:
+    type = "Psychic/Flying"  
+    ability = "Truth Sight"
+    
+    def aeroblast(self):
+        return "🌪️ EfficientNet + ResNet + ViT Tornado!"
+    
+    def guardian_duty(self):
+        return "🛡️ Digital Reality Protector"
+```
+
+---
+
+## <img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="35"> **POKÉDEX STATS**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-royswarnajit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=🎮%20Trainer%20Battle%20Stats&icon_color=79ff97&title_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-royswarnajit&theme=tokyo-night&bg_color=151515&color=79ff97&line=79ff97&point=79ff97&custom_title=🏆%20Annual%20Training%20Journey"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-royswarnajit&layout=compact&langs_count=8&theme=tokyonight&custom_title=🔥%20Type%20Effectiveness%20Chart&title_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **POKÉMON CENTER - CURRENT TRAINING**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=20&duration=3000&pause=1000&color=79FF97&background=15151500&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🧠+Advanced+Neural+Architecture+Training;🤖+Next-Gen+AI+Application+Development;🔬+Computer+Vision+Research+Expedition;📚+ML+Paper+Collection+Mission;🌟+Open+Source+Contribution+Quest" alt="Training Status" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **GYM BATTLES - CONNECT WITH ME**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/swarnajit-roy-7a4879286)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/coder-royswarnajit)
+[![Email](https://img.shields.io/badge/Challenge_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="35"> **POKÉDEX ENTRY #2024**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/MSgJnzNSMGBc6BpGIc/giphy.gif" width="300"/>
+</div>
 
 ```
-SPECIES: Code Trainer Pokémon
-TYPE: Python/AI
-HEIGHT: Variable
-WEIGHT: Infinite Learning Capacity
-
-DESCRIPTION: 
-A rare species known for its ability to tame complex algorithms 
-and neural networks. Often found in its natural habitat - the IDE, 
-surrounded by multiple monitors and endless cups of coffee. 
-
-SPECIAL MOVES:
-- Debug Ray: Instantly identifies and fixes bugs
-- Refactor Beam: Optimizes code structure 
-- Deploy Dash: Rapid application deployment
-- Documentation Dance: Creates comprehensive project docs
-
-EVOLUTION CHAIN:
-Noob Coder → Python Apprentice → ML Practitioner → AI Master → Legendary Developer
+╔══════════════════════════════════════════════════════════════════╗
+║                          SPECIES DATA                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║ SPECIES: Code Trainer Pokémon                                   ║
+║ TYPE: Python/AI                                                 ║
+║ HEIGHT: 6'0" (Variable in Virtual Reality)                      ║
+║ WEIGHT: ∞ (Infinite Learning Capacity)                          ║
+║                                                                  ║
+║ ABILITIES:                                                       ║
+║ • Debug Vision: Can spot bugs from miles away                   ║
+║ • Algorithm Tamer: Commands respect from Neural Networks        ║
+║ • Code Synthesis: Transforms coffee into working applications   ║
+║                                                                  ║
+║ HABITAT: Commonly found in IDEs, surrounded by multiple         ║
+║         monitors and an endless supply of energy drinks.        ║
+║                                                                  ║
+║ EVOLUTION: Newbie → Junior Dev → Senior Dev → AI Master →       ║
+║           🌟 LEGENDARY DEVELOPER 🌟                             ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://media.giphy.com/media/3oKIPqZPlKW5otXIS4/giphy.gif" width="400"/>
   
-  ### 🌟 *"The very best, like no dev ever was!"* 🌟
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=25&duration=2000&pause=1000&color=FFCB05&background=3D7DCA00&center=true&vCenter=true&width=500&height=60&lines=Gotta+Code+'Em+All!;Thanks+for+visiting!" alt="Closing Message" />
   
-  ![Visitor Count](https://profile-counter.glitch.me/coder-royswarnajit/count.svg)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=coder-royswarnajit.coder-royswarnajit&left_color=blue&right_color=yellow&left_text=Trainers%20Visited)
   
-  **Thanks for visiting my Pokémon coding world!** 🎮✨
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="50"/>
 </div>
