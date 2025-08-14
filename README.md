@@ -23,9 +23,9 @@
 │ NAME: Swarnajit Roy                                         │
 │ ID: #2024                                                   │
 │ REGION: India                                               │
-│ SPECIALTY: Neural Network Taming                           │
-│ CURRENT STREAK: Learning Every Day                         │
-│ LEGENDARY STATUS: Python Master                            │
+│ SPECIALTY: Neural Network Taming                            │
+│ CURRENT STREAK: Learning Every Day                          │
+│ LEGENDARY STATUS: Python Master                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -89,7 +89,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **LEGENDARY PROJECTS - ELITE FOUR BATTLE**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ1OGF0NnVnazVuMmp4ZjNlc3RvaWVtaWpwYnk2dXk0NDZnbWpxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AIL5YCtqUBYUOOT9j/giphy.gif" width="400"/>
 </div>
 
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="30"> **MEWTWO - Poke-Summarizer**
