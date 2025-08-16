@@ -21,7 +21,6 @@
 │                    🎮 TRAINER CARD 🎮                      │
 ├─────────────────────────────────────────────────────────────┤
 │ NAME: Swarnajit Roy                                         │
-│ ID: #2024                                                   │
 │ REGION: India                                               │
 │ SPECIALTY: Neural Network Taming                            │
 │ CURRENT STREAK: Learning Every Day                          │
@@ -49,7 +48,7 @@
 </td>
 <td align="center" width="150">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="80"><br>
-<b>TensorFlow</b><br>
+<b>Langchain</b><br>
 🔮 Psychic Type<br>
 <img src="https://img.shields.io/badge/Level-88-purple?style=flat-square&logo=tensorflow&logoColor=white">
 </td>
