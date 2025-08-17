@@ -152,46 +152,50 @@ class DeepfakeGuardian:
 ## <img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="35"> **POKÉDEX STATS**
 
 <div align="center">
+  <!-- Adaptive (Light/Dark) Trainer Battle Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=coder-royswarnajit&show_icons=true&count_private=true&include_all_commits=true&custom_title=🎮%20Trainer%20Battle%20Stats&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=1F6FEB" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=coder-royswarnajit&show_icons=true&count_private=true&include_all_commits=true&custom_title=🎮%20Trainer%20Battle%20Stats&bg_color=FFFFFF&title_color=0A66C2&text_color=2D333B&icon_color=0A66C2&border_color=0A66C2" />
+    <img alt="GitHub Trainer Battle Stats for coder-royswarnajit" src="https://github-readme-stats.vercel.app/api?username=coder-royswarnajit&show_icons=true&count_private=true&include_all_commits=true" />
+  </picture>
   
-  <!-- Trainer Battle Stats Card (Gold / Electric highlight) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-royswarnajit&show_icons=true&count_private=true&include_all_commits=true&custom_title=🎮%20Trainer%20Battle%20Stats&title_color=FFD700&icon_color=FFCB05&text_color=9f9f9f&bg_color=151515&border_color=FFD700" alt="GitHub Trainer Battle Stats for coder-royswarnajit" />
+  <!-- Adaptive Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakLabel=58A6FF&fire=58A6FF&ring=58A6FF&stroke=1F6FEB&dates=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=FFFFFF&currStreakLabel=0A66C2&fire=0A66C2&ring=0A66C2&stroke=0A66C2&dates=2D333B&sideNums=0A66C2&sideLabels=2D333B" />
+    <img alt="Current Coding Streak - coder-royswarnajit" src="https://github-readme-streak-stats.herokuapp.com?user=coder-royswarnajit" />
+  </picture>
   
-  <!-- Streak Stats (Fire + Electric + Legendary Gold) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=151515&ring=FFD700&fire=FF4500&currStreakLabel=FFCB05&sideLabels=FFCB05&currStreakNum=FFCB05&dates=9f9f9f&stroke=FFD700" alt="Current Coding Streak - coder-royswarnajit" />
+  <!-- Adaptive Activity Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=coder-royswarnajit&theme=github-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=false&custom_title=🏆%20Annual%20Training%20Journey" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=coder-royswarnajit&theme=github-light&bg_color=FFFFFF&color=0A66C2&line=0078D4&point=0A66C2&area=true&hide_border=false&custom_title=🏆%20Annual%20Training%20Journey" />
+    <img alt="Contribution Activity Graph - coder-royswarnajit" src="https://github-readme-activity-graph.vercel.app/graph?username=coder-royswarnajit&theme=github-light" />
+  </picture>
   
-  <!-- Activity Graph (Fire line + Electric points + Gold title) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-royswarnajit&bg_color=151515&color=FFCB05&line=FF4500&point=FFD700&area=true&area_color=FF4500&title_color=FFD700&custom_title=🏆%20Annual%20Training%20Journey" alt="Contribution Activity Graph - coder-royswarnajit" />
-  
-  <!-- Top Languages (Type Effectiveness Chart) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-royswarnajit&layout=compact&langs_count=8&custom_title=🔥%20Type%20Effectiveness%20Chart&title_color=FFD700&text_color=9f9f9f&icon_color=FFCB05&bg_color=151515&border_color=FFD700" alt="Most Used Languages - Type Effectiveness Chart" />
+  <!-- Adaptive Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-royswarnajit&layout=compact&langs_count=8&custom_title=🔥%20Type%20Effectiveness%20Chart&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-royswarnajit&layout=compact&langs_count=8&custom_title=🔥%20Type%20Effectiveness%20Chart&bg_color=FFFFFF&title_color=0A66C2&text_color=2D333B&border_color=0A66C2" />
+    <img alt="Most Used Languages - Type Effectiveness Chart" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-royswarnajit&layout=compact&langs_count=8" />
+  </picture>
 </div>
 
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/025.png" width="30"> **LIVE TRAINER STATS**
 <div align="center">
-  <!-- PRs (Psychic/Fairy - Pink) -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:coder-royswarnajit+type:pr&query=$.total_count&label=PRs&logo=github&style=for-the-badge&color=FF69B4" alt="Total Pull Requests" />
-  <!-- Issues (Electric - Yellow) -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:coder-royswarnajit+type:issue&query=$.total_count&label=Issues&logo=github&style=for-the-badge&color=FFD700" alt="Total Issues Opened" />
-  <!-- Followers (Legendary Gold) -->
-  <img src="https://img.shields.io/github/followers/coder-royswarnajit?label=Followers&style=for-the-badge&color=FFD700" alt="GitHub Followers" />
-  <!-- Following (Steel Silver) -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/coder-royswarnajit&query=$.following&label=Following&logo=github&style=for-the-badge&color=C0C0C0" alt="Following Count" />
+  
+  <!-- Dynamic Live Counters -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:coder-royswarnajit+type:pr&query=$.total_count&label=PRs&logo=github&style=for-the-badge&color=0A66C2" alt="Total Pull Requests" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:coder-royswarnajit+type:issue&query=$.total_count&label=Issues&logo=github&style=for-the-badge&color=0A66C2" alt="Total Issues Opened" />
+  <img src="https://img.shields.io/github/followers/coder-royswarnajit?label=Followers&style=for-the-badge&color=0A66C2" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/coder-royswarnajit&query=$.following&label=Following&logo=github&style=for-the-badge&color=0A66C2" alt="Following Count" />
+  <!-- NOTE: A fully accurate total commits badge requires aggregation across all repos via the GraphQL API. Consider a GitHub Action + gist for that. -->
 </div>
 
 <div align="center">
-  <sub>🔄 Auto-updating metrics — your Pokédex syncs in real time.</sub>
-</div>
-
-### 🎨 TYPE COLOR LEGEND
-<div align="center">
-  <sub>
-    <b>Fire</b> <code>#FF4500</code> | <b>Water</b> <code>#1E90FF</code> | <b>Grass</b> <code>#32CD32</code> | <b>Bug</b> <code>#8B4513</code><br/>
-    <b>Electric</b> <code>#FFD700</code> | <b>Psychic/Fairy</b> <code>#FF69B4 / #800080</code> | <b>Rock/Ground</b> <code>#A0522D / #708090</code><br/>
-    <b>Steel</b> <code>#C0C0C0</code> | <b>Poison/Ghost</b> <code>#8A2BE2 / #000000</code> | <b>Dark</b> <code>#00008B</code><br/>
-    <b>Ice</b> <code>#E0FFFF / #AFEEEE</code> | <b>Fighting</b> <code>#8B4513 / #FF8C00</code> | <b>Legendary</b> <code>#FFD700 / #C0C0C0</code>
-  </sub>
+  <sub>🔄 These stats auto-refresh — keeping your Pokédex up to date!</sub>
 </div>
 
 ---
@@ -224,22 +228,22 @@ class DeepfakeGuardian:
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                          SPECIES DATA                            ║
+║                          SPECIES DATA                           ║
 ╠══════════════════════════════════════════════════════════════════╣
-║ SPECIES: Code Trainer Pokémon                                    ║
-║ TYPE: Python/AI                                                  ║
-║ HEIGHT: 6'0" (Variable in Virtual Reality)                       ║
-║ WEIGHT: ∞ (Infinite Learning Capacity)                           ║
+║ SPECIES: Code Trainer Pokémon                                   ║
+║ TYPE: Python/AI                                                 ║
+║ HEIGHT: 6'0" (Variable in Virtual Reality)                      ║
+║ WEIGHT: ∞ (Infinite Learning Capacity)                          ║
 ║                                                                  ║
 ║ ABILITIES:                                                       ║
-║ • Debug Vision: Can spot bugs from miles away                    ║
-║ • Algorithm Tamer: Commands respect from Neural Networks         ║
-║ • Code Synthesis: Transforms coffee into working applications    ║
+║ • Debug Vision: Can spot bugs from miles away                   ║
+║ • Algorithm Tamer: Commands respect from Neural Networks        ║
+║ • Code Synthesis: Transforms coffee into working applications   ║
 ║                                                                  ║
-║ HABITAT: Commonly found in IDEs, surrounded by multiple          ║
-║         monitors and an endless supply of energy drinks.         ║
+║ HABITAT: Commonly found in IDEs, surrounded by multiple         ║
+║         monitors and an endless supply of energy drinks.        ║
 ║                                                                  ║
-║ EVOLUTION: Newbie → Junior Dev → Senior Dev → AI Master →        ║
+║ EVOLUTION: Newbie → Junior Dev → Senior Dev → AI Master →       ║
 ║           🌟 LEGENDARY DEVELOPER 🌟                             ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
