@@ -152,15 +152,30 @@ class DeepfakeGuardian:
 ## <img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="35"> **POKÉDEX STATS**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-royswarnajit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=🎮%20Trainer%20Battle%20Stats&icon_color=79ff97&title_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-royswarnajit&theme=radical&show_icons=true&count_private=true&include_all_commits=true&custom_title=🎮%20Trainer%20Battle%20Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-royswarnajit&theme=tokyo-night&bg_color=151515&color=79ff97&line=79ff97&point=79ff97&custom_title=🏆%20Annual%20Training%20Journey"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-royswarnajit&theme=radical&custom_title=⚡%20Legendary%20Streak%20Power"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-royswarnajit&layout=compact&langs_count=8&theme=tokyonight&custom_title=🔥%20Type%20Effectiveness%20Chart&title_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coder-royswarnajit&theme=radical&custom_title=🏆%20Annual%20Training%20Journey"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-royswarnajit&layout=compact&theme=radical&langs_count=8&custom_title=🔥%20Type%20Effectiveness%20Chart"/>
+</div>
+
+<div align="center">
+  
+  ### 📊 **Real-time Trainer Statistics**
+  
+  ![GitHub followers](https://img.shields.io/github/followers/coder-royswarnajit?label=Trainers%20Following&style=for-the-badge&color=yellow&logo=github&logoColor=white)
+  ![GitHub User's stars](https://img.shields.io/github/stars/coder-royswarnajit?affiliations=OWNER&label=Stars%20Earned&style=for-the-badge&color=gold&logo=star&logoColor=white)
+  ![GitHub commits](https://img.shields.io/badge/Total%20Commits-Dynamic-ff69b4?style=for-the-badge&logo=git&logoColor=white)
+  ![Profile Views](https://komarev.com/ghpvc/?username=coder-royswarnajit&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+  
 </div>
 
 ---
