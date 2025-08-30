@@ -203,7 +203,7 @@ class DeepfakeGuardian:
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ6bHQ4cDdkdnU1azJxdnB6Y3Foa250d2NrYjR5dzZqdGY4bXR1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/biq803SRoFGyTtLy5U/giphy.gif" width="35"> **POKÉMON CENTER - CURRENT TRAINING**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=20&duration=3000&pause=1000&color=79FF97&background=15151500&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🧠+Advanced+Neural+Architecture+Training;🤖+Next-Gen+AI+Application+Development;🔬+Computer+Vision+Research+Expedition;📚+ML+Paper+Collection+Mission;🌟+Open+Source+Contribution+Quest" alt="Training Status" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=20&duration=3000&pause=1000&color=79FF97&background=15151500&center=true&vCenter=true&multiline=true&width=600&height=140&lines=🧠+Advanced+Neural+Architecture+Training;🤖+Next-Gen+AI+Application+Development;🔬+Computer+Vision+Research+Expedition;📚+ML+Paper+Collection+Mission;🌟+Open+Source+Contribution+Quest" alt="Training Status" />
 </div>
 
 ---
