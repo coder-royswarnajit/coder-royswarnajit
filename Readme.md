@@ -43,8 +43,8 @@
 <td align="center" width="150">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="80"><br>
 <b>Python</b><br>
-⚡ Electric Type<br>
-<img src="https://img.shields.io/badge/Level-95-yellow?style=flat-square&logo=python&logoColor=white">
+⚡ Poison Type<br>
+<img src="[https://img.shields.io/badge/Level-95-yellow?style=flat-square](https://github.com/coder-royswarnajit/coder-royswarnajit)&logo=python&logoColor=white">
 </td>
 <td align="center" width="150">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="80"><br>
