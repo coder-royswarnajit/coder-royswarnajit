@@ -1,31 +1,31 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to Swarnajit's Pokémon Coding Universe!
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FyMTZ5MXcyaW5oYXRhZWd5Z3FhZnFhYnQxamY3cTMwNXZueDZ2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Zy1DpcdoCqSt06oeoa/giphy.gif" width="30"> Welcome to Swarnajit's Pokémon Coding Universe!
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNjMDJ6NXZ0engwbjRkZ29wbGdhOW9jZnN4ZXpzaTg4ZnBraW94ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/amrNGnZUeWhZC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdicDBtY3JyMDU0emkzMjhvdXo2enEzYXZkeGQ3YXY0bHVlNDlmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/83S2PHgDuda3mhwSfs/giphy.gif" width="600" height="300"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=35&duration=1000&pause=1000&color=FFCB05&background=3D7DCA00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=TRAINER+SWARNAJIT;PYTHON+MASTER;AI+SPECIALIST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=35&duration=1000&pause=1000&color=FFCB05&background=3D7DCA00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=TRAINER+SWARNAJIT;AI+MASTER" alt="Typing SVG" />
 </div>
 
 ---
 
-## <img src="https://media1.tenor.com/m/hi5Z4F8XjfEAAAAd/hi-beeg-hey-beeg.gif" width="35"> **TRAINER PROFILE**
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5H6fDxu0RcainpY63AYUaaOiV8Dvvoj3JQ&s" width="35"> **TRAINER PROFILE**
 
 <div align="center">
   <img src="https://media1.tenor.com/m/hi5Z4F8XjfEAAAAd/hi-beeg-hey-beeg.gif" width="100"/>
 </div>
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    🎮 TRAINER CARD 🎮                      │
-├─────────────────────────────────────────────────────────────┤
-│ NAME: Swarnajit Roy                                         │
-│ REGION: India                                               │
-│ SPECIALTY: Neural Network Taming                            │
-│ CURRENT STREAK: Learning Every Day                          │
-│ LEGENDARY STATUS: Python Master                             │
-└─────────────────────────────────────────────────────────────┘
+                          ┌─────────────────────────────────────────────────────────────┐
+                          │                    🎮 TRAINER CARD 🎮                      │
+                          ├─────────────────────────────────────────────────────────────┤
+                          │ NAME: Swarnajit Roy                                         │
+                          │ REGION: India                                               │
+                          │ SPECIALTY: Neural Network Taming                            │
+                          │ CURRENT STREAK: Learning Every Day                          │
+                          │ LEGENDARY STATUS: Python Master                             │
+                          └─────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -34,23 +34,23 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **MY POKÉMON PARTY**
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RuOWsyNmM2NXNqN2hmNXlwMGp3Z3owZDV2YW04anRqYXN1NjA0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WecrophNjDqgrlq8Xo/giphy.gif" width="45"> **MY POKÉMON PARTY**
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="150">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="80"><br>
+<img src="https://p1.hiclipart.com/preview/862/402/540/bulbasaur-ekans-arbok-seviper-fearow-spearow-purple-cartoon-png-clipart.jpg" width="80"><br>
 <b>Python</b><br>
-⚡ Electric Type<br>
-<img src="https://img.shields.io/badge/Level-95-yellow?style=flat-square&logo=python&logoColor=white">
+☣︎ Poison Type<br>
+<img src="https://img.shields.io/badge/Level-95-purple?style=flat-square&logo=python&logoColor=white">
 </td>
 <td align="center" width="150">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="80"><br>
+<img src="https://archives.bulbagarden.net/media/upload/thumb/1/1d/HOME0931.png/200px-HOME0931.png" width="80"><br>
 <b>Langchain</b><br>
-🔮 Psychic Type<br>
-<img src="https://img.shields.io/badge/Level-88-purple?style=flat-square&logo=tensorflow&logoColor=white">
+🪽 FLying Type<br>
+<img src="https://img.shields.io/badge/Level-88-green?style=flat-square&logo=langchain&logoColor=white">
 </td>
 <td align="center" width="150">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" width="80"><br>
@@ -85,7 +85,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **LEGENDARY PROJECTS - ELITE FOUR BATTLE**
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RuOWsyNmM2NXNqN2hmNXlwMGp3Z3owZDV2YW04anRqYXN1NjA0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/alTDoqbZ5WM93lCPDZ/giphy.gif" width="45"> **LEGENDARY PROJECTS - ELITE FOUR BATTLE**
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ1OGF0NnVnazVuMmp4ZjNlc3RvaWVtaWpwYnk2dXk0NDZnbWpxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AIL5YCtqUBYUOOT9j/giphy.gif" width="400"/>
@@ -183,7 +183,7 @@ class DeepfakeGuardian:
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/025.png" width="30"> **LIVE TRAINER STATS**
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V2dzQ5eDJjejB5Z2JlemwzYTNxMDU0ZXo5bTk3eG5teTdlNDd6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9JfHlqV1W0hm8KebYi/giphy.gif" width="30"> **LIVE TRAINER STATS**
 <div align="center">
   
   <!-- Dynamic Live Counters -->
@@ -200,7 +200,7 @@ class DeepfakeGuardian:
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **POKÉMON CENTER - CURRENT TRAINING**
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ6bHQ4cDdkdnU1azJxdnB6Y3Foa250d2NrYjR5dzZqdGY4bXR1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/biq803SRoFGyTtLy5U/giphy.gif" width="35"> **POKÉMON CENTER - CURRENT TRAINING**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=20&duration=3000&pause=1000&color=79FF97&background=15151500&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🧠+Advanced+Neural+Architecture+Training;🤖+Next-Gen+AI+Application+Development;🔬+Computer+Vision+Research+Expedition;📚+ML+Paper+Collection+Mission;🌟+Open+Source+Contribution+Quest" alt="Training Status" />
@@ -208,7 +208,7 @@ class DeepfakeGuardian:
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **GYM BATTLES - CONNECT WITH ME**
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1waGV5YXQ1NHh6Ync3ajhzZTk4dG56YzdoOThic2oyaHhycDdkdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nMP4ub7FKyan75O0K9/giphy.gif" width="40"> **GYM BATTLES - CONNECT WITH ME**
 
 <div align="center">
 
@@ -220,38 +220,38 @@ class DeepfakeGuardian:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="35"> **POKÉDEX ENTRY #2024**
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="35"> **POKÉDEX ENTRY #2025**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MSgJnzNSMGBc6BpGIc/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDllNGlmMWV6c28zdTM0MTl6MmxrczBmanJ2eWp6ZDFpMnkwdG9icCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wiw1lNXzi4IWe2unRY/giphy.gif" width="300"/>
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                          SPECIES DATA                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║ SPECIES: Code Trainer Pokémon                                   ║
-║ TYPE: Python/AI                                                 ║
-║ HEIGHT: 6'0" (Variable in Virtual Reality)                      ║
-║ WEIGHT: ∞ (Infinite Learning Capacity)                          ║
-║                                                                  ║
-║ ABILITIES:                                                       ║
-║ • Debug Vision: Can spot bugs from miles away                   ║
-║ • Algorithm Tamer: Commands respect from Neural Networks        ║
-║ • Code Synthesis: Transforms coffee into working applications   ║
-║                                                                  ║
-║ HABITAT: Commonly found in IDEs, surrounded by multiple         ║
-║         monitors and an endless supply of energy drinks.        ║
-║                                                                  ║
-║ EVOLUTION: Newbie → Junior Dev → Senior Dev → AI Master →       ║
-║           🌟 LEGENDARY DEVELOPER 🌟                             ║
-╚══════════════════════════════════════════════════════════════════╝
+                                ╔══════════════════════════════════════════════════════════════════╗
+                                ║                          SPECIES DATA                            ║
+                                ╠══════════════════════════════════════════════════════════════════╣
+                                ║ SPECIES: Code Trainer Pokémon                                    ║
+                                ║ TYPE: Python/AI                                                  ║
+                                ║ HEIGHT: 6'0" (Variable in Virtual Reality)                       ║
+                                ║ WEIGHT: ∞ (Infinite Learning Capacity)                           ║
+                                ║                                                                  ║
+                                ║ ABILITIES:                                                       ║
+                                ║ • Debug Vision: Can spot bugs from miles away                    ║
+                                ║ • Algorithm Tamer: Commands respect from Neural Networks         ║
+                                ║ • Code Synthesis: Transforms coffee into working applications    ║
+                                ║                                                                  ║
+                                ║ HABITAT: Commonly found in IDEs, surrounded by multiple          ║
+                                ║         monitors and an endless supply of energy drinks.         ║
+                                ║                                                                  ║
+                                ║ EVOLUTION: Newbie → Junior Dev → Senior Dev → AI Master →        ║
+                                ║           🌟 LEGENDARY DEVELOPER 🌟                             ║
+                                ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPqZPlKW5otXIS4/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdicDBtY3JyMDU0emkzMjhvdXo2enEzYXZkeGQ3YXY0bHVlNDlmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iOKIm8A7NCq60B7yJE/giphy.gif" width="400"/>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=25&duration=2000&pause=1000&color=FFCB05&background=3D7DCA00&center=true&vCenter=true&width=500&height=60&lines=Gotta+Code+'Em+All!;Thanks+for+visiting!" alt="Closing Message" />
   
