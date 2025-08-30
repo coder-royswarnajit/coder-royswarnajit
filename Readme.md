@@ -85,10 +85,10 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RuOWsyNmM2NXNqN2hmNXlwMGp3Z3owZDV2YW04anRqYXN1NjA0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/alTDoqbZ5WM93lCPDZ/giphy.gif" width="45"> **LEGENDARY PROJECTS - ELITE FOUR BATTLE**
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RuOWsyNmM2NXNqN2hmNXlwMGp3Z3owZDV2YW04anRqYXN1NjA0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/alTDoqbZ5WM93lCPDZ/giphy.gif" width="50"> **LEGENDARY PROJECTS - ELITE FOUR BATTLE**
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ1OGF0NnVnazVuMmp4ZjNlc3RvaWVtaWpwYnk2dXk0NDZnbWpxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AIL5YCtqUBYUOOT9j/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVjbHZleDBob2F3Ymx4b3p0Z2k3OTN4OGk4d2t3dHNteHZ4MzgyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q86Pihctl0nOlAYZME/giphy.gif" width="400"/>
 </div>
 
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png" width="30"> **MEWTWO - Poke-Summarizer**
@@ -223,7 +223,7 @@ class DeepfakeGuardian:
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="35"> **POKÉDEX ENTRY #2025**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDllNGlmMWV6c28zdTM0MTl6MmxrczBmanJ2eWp6ZDFpMnkwdG9icCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wiw1lNXzi4IWe2unRY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW44MXR4MHZueHdlMmh6aG40bjU2OXJoamR3YXFnbDA3NnYyMGpxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZZT3Wag0jrTD3dpIfe/giphy.gif" width="350"/>
 </div>
 
 ```
