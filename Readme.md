@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=35&duration=1000&pause=1000&color=FFCB05&background=3D7DCA00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=TRAINER+SWARNAJIT;AI+MASTER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pokemon+Solid&size=35&duration=1000&pause=1000&color=FFCB05&background=3D7DCA00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=TRAINER+SWARNAJIT;AI+MASTER" alt="Typing SVG" />
 </div>
 
 ---
 
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5H6fDxu0RcainpY63AYUaaOiV8Dvvoj3JQ&s" width="35"> **TRAINER PROFILE**
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="35"> **TRAINER PROFILE**
 
 <div align="center">
   <img src="https://media1.tenor.com/m/hi5Z4F8XjfEAAAAd/hi-beeg-hey-beeg.gif" width="100"/>
@@ -41,13 +41,13 @@
 <table>
 <tr>
 <td align="center" width="150">
-<img src="https://p1.hiclipart.com/preview/862/402/540/bulbasaur-ekans-arbok-seviper-fearow-spearow-purple-cartoon-png-clipart.jpg" width="80"><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png" width="80"><br>
 <b>Python</b><br>
 ☣︎ Poison Type<br>
 <img src="https://img.shields.io/badge/Level-95-purple?style=flat-square&logo=python&logoColor=white">
 </td>
 <td align="center" width="150">
-<img src="https://archives.bulbagarden.net/media/upload/thumb/1/1d/HOME0931.png/200px-HOME0931.png" width="80"><br>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png" width="80"><br>
 <b>Langchain</b><br>
 🪽 FLying Type<br>
 <img src="https://img.shields.io/badge/Level-88-green?style=flat-square&logo=langchain&logoColor=white">
@@ -161,9 +161,9 @@ class DeepfakeGuardian:
   
   <!-- Adaptive Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakLabel=58A6FF&fire=58A6FF&ring=58A6FF&stroke=1F6FEB&dates=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=FFFFFF&currStreakLabel=0A66C2&fire=0A66C2&ring=0A66C2&stroke=0A66C2&dates=2D333B&sideNums=0A66C2&sideLabels=2D333B" />
-    <img alt="Current Coding Streak - coder-royswarnajit" src="https://github-readme-streak-stats.herokuapp.com?user=coder-royswarnajit" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demo.vercel.app?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakLabel=58A6FF&fire=58A6FF&ring=58A6FF&stroke=1F6FEB&dates=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demo.vercel.app?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=FFFFFF&currStreakLabel=0A66C2&fire=0A66C2&ring=0A66C2&stroke=0A66C2&dates=2D333B&sideNums=0A66C2&sideLabels=2D333B" />
+    <img alt="Current Coding Streak - coder-royswarnajit" src="https://github-readme-streak-stats.demo.vercel.app?user=coder-royswarnajit" />
   </picture>
   
   <!-- Adaptive Activity Graph -->
@@ -203,7 +203,7 @@ class DeepfakeGuardian:
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZ6bHQ4cDdkdnU1azJxdnB6Y3Foa250d2NrYjR5dzZqdGY4bXR1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/biq803SRoFGyTtLy5U/giphy.gif" width="35"> **POKÉMON CENTER - CURRENT TRAINING**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=20&duration=3000&pause=1000&color=79FF97&background=15151500&center=true&vCenter=true&multiline=true&width=600&height=140&lines=🧠+Advanced+Neural+Architecture+Training;🤖+Next-Gen+AI+Application+Development;🔬+Computer+Vision+Research+Expedition;📚+ML+Paper+Collection+Mission;🌟+Open+Source+Contribution+Quest" alt="Training Status" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pokemon+Solid&size=20&duration=3000&pause=1000&color=79FF97&background=15151500&center=true&vCenter=true&multiline=true&width=600&height=140&lines=🧠+Advanced+Neural+Architecture+Training;🤖+Next-Gen+AI+Application+Development;🔬+Computer+Vision+Research+Expedition;📚+ML+Paper+Collection+Mission;🌟+Open+Source+Contribution+Quest" alt="Training Status" />
 </div>
 
 ---
@@ -253,7 +253,7 @@ class DeepfakeGuardian:
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdicDBtY3JyMDU0emkzMjhvdXo2enEzYXZkeGQ3YXY0bHVlNDlmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iOKIm8A7NCq60B7yJE/giphy.gif" width="400"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pokemon+Solid&size=25&duration=2000&pause=1000&color=FFCB05&background=3D7DCA00&center=true&vCenter=true&width=500&height=60&lines=Gotta+Code+'Em+All!;Thanks+for+visiting!" alt="Closing Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pokemon+Solid&size=25&duration=2000&pause=1000&color=FFCB05&background=3D7DCA00&center=true&vCenter=true&width=500&height=60&lines=Gotta+Code+'Em+All!;Thanks+for+visiting!" alt="Closing Message" />
   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=coder-royswarnajit.coder-royswarnajit&left_color=blue&right_color=yellow&left_text=Trainers%20Visited)
   
