@@ -134,18 +134,173 @@ class EmpathyMew:
         return "🌈 Pure Emotional Intelligence"
 ```
 
-### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png" width="30"> **LUGIA - Deepfake Detection**
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png" width="30"> **LUGIA - Agragati (AI Resume & Job Search Platform)**
 ```python
-class DeepfakeGuardian:
+class AgragatiPlatform:
     type = "Psychic/Flying"  
-    ability = "Truth Sight"
+    ability = "Career Vision"
     
     def aeroblast(self):
-        return "🌪️ EfficientNet + ResNet + ViT Tornado!"
+        return "🌪️ Groq Llama-3.3-70b + Multi-API Job Tornado!"
     
-    def guardian_duty(self):
-        return "🛡️ Digital Reality Protector"
+    def special_moves(self):
+        return {
+            "Resume Analysis": "📄 AI-powered feedback with ATS optimization",
+            "Job Matching": "🎯 60% improved discovery via skill extraction",
+            "Multi-Source Search": "🔍 LinkedIn, Indeed, ZipRecruiter integration",
+            "Smart Deploy": "🐳 Docker + CI/CD pipeline ready"
+        }
+    
+    def tech_stack(self):
+        return "Python | Streamlit | Groq AI | PyPDF2 | Pandas | Docker | REST APIs"
 ```
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png" width="50"> **POKÉMON RESEARCH LAB - CONFERENCE EXPEDITIONS**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVnN2ttN3ByMnBpNGFueTkycXlwNGkyaGYzYmRkMWR6eGVqajI2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+</div>
+
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png" width="35"> **ARCEUS - Quantum Hybrid Steganography Model**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Conference-SaaAI'25-gold?style=for-the-badge&logo=academia&logoColor=white">
+  <img src="https://img.shields.io/badge/Venue-Christ_University,_Bangalore-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Date-August_2025-green?style=for-the-badge">
+</div>
+
+```python
+class QuantumSteganographyResearch:
+    type = "Psychic/Steel"  # Like Arceus - Creation of secure systems
+    ability = "Multitype Security"
+    conference = "International Conference on Sustainable Analytics and AI (SaaAI'25)"
+    
+    def research_framework(self):
+        return {
+            "🔐 QKD": "Quantum Key Distribution with eavesdropping detection",
+            "🛡️ AES-256": "Military-grade message confidentiality",
+            "⚡ Error Correction": "Data integrity in noisy quantum channels",
+            "🖼️ LSB Steganography": "Invisible data embedding in images"
+        }
+    
+    def legendary_results(self):
+        return {
+            "Security Strength": "88.06% 🏆 (outperforms classical methods)",
+            "Bit Error Rate": "4.26% ⬇️ (vs 7.35% conventional)",
+            "SSIM Score": "0.9961 📊 (near-lossless quality)",
+            "Validation": "IBM Quantum (Qiskit) simulations ✅"
+        }
+```
+
+---
+
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png" width="35"> **DIALGA - Battery Life Estimation Research**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Conference-SMAMIA_2025-purple?style=for-the-badge&logo=academia&logoColor=white">
+  <img src="https://img.shields.io/badge/Focus-Smart_Materials_&_AI-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Date-December_2025-green?style=for-the-badge">
+</div>
+
+```python
+class BatteryLifeEstimationResearch:
+    type = "Steel/Dragon"  # Like Dialga - Master of Time (battery longevity)
+    ability = "Pressure Analysis"
+    conference = "International Conference on Smart Materials, Advanced Manufacturing & Industrial Applications"
+    
+    def ml_models_compared(self):
+        return {
+            "⚡ Single Models": ["Linear Regression", "Decision Tree", "XGBoost"],
+            "🌲 Ensemble Models": ["Random Forest", "Gradient Boosting", "Extra Trees"],
+            "📚 Stacked Models": ["Pairwise stacking for enhanced accuracy"]
+        }
+    
+    def champion_results(self):
+        return {
+            "🥇 Best Single Model": "XGBoost → R² = 0.983",
+            "🥈 Best Stacked": "Decision Tree + XGBoost → R² = 0.982, MAE = 1.55h",
+            "📉 Linear Baseline": "R² ≈ 0.58 (significantly outperformed)",
+            "🔋 Innovation": "Battery Degradation Factor (BDF) introduced"
+        }
+    
+    def key_insight(self):
+        return "Tree-based ensembles capture non-linear battery degradation patterns effectively!"
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pokemon+Solid&size=18&duration=3000&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=600&height=50&lines=🔬+Research+is+the+ultimate+Pokémon+evolution!" alt="Research Quote" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png" width="45"> **GYM BADGES - CERTIFICATIONS COLLECTED**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN5YnA3NWF4Z3d4eHZ0ZXNlMnBjZ3VxOXlxcjc3cWQ0N3FtcDFtZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTIhJeXvlRnPewkBLt/giphy.gif" width="250"/>
+</div>
+
+<div align="center">
+
+| 📜 Certification | 🏛️ Issuing Authority | 📅 Date |
+|:-----------------|:---------------------|:-------:|
+| **AI Agents Bootcamp** | LetsUpgrade × NSDC × ITM Edutech × GDG MAD | Aug 2025 |
+| **Generative AI Foundations** | AWS Academy | Aug 2025 |
+| **Artificial Intelligence Fundamentals** | IBM SkillsBuild | July 2025 |
+| **Build RAG Chatbot with Python** | LetsUpgrade × NSDC × ITM Edutech × GDG MAD | May 2025 |
+| **Git In The Game: A GitHub Workshop** | IEEE MAIT | May 2025 |
+| **Programming, DSA Using Python** | NPTEL, IIT Madras | March 2025 |
+| **Transformational Leadership** | LinkedIn Learning | July 2024 |
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pokemon+Solid&size=16&duration=2500&pause=1000&color=C0C0C0&background=00000000&center=true&vCenter=true&width=500&height=40&lines=🎖️+7+Gym+Badges+Collected!;🏆+Elite+Four+Challenge+Ready!" alt="Badge Count" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png" width="45"> **LEAGUE CHAMPION - ACHIEVEMENTS & VICTORIES**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU0OHd5dGV5bWN4NnV6cjZyaGphMTV4YnJxdGxqNGJrYnY2cXI5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9DPhONuz1SpCONiM/giphy.gif" width="250"/>
+</div>
+
+<div align="center">
+
+### 🏆 **CHAMPION VICTORIES**
+
+| 🥇 Achievement | 🏛️ Organization | 📅 Year |
+|:--------------|:----------------|:-------:|
+| **🥇 First Place - Extra-Curricular Activities** | CUESTIC EC Club, Christ University Bangalore Kengeri | 2024–2025 |
+| **💻 Gen'AI Work-a-thon Hackathon** | Christ University (Built Agragati) | Nov 2025 |
+
+</div>
+
+```python
+class LeagueChampion:
+    type = "Fire/Flying"  # Like Ho-Oh - Symbol of Victory
+    ability = "Rainbow Wings"
+    
+    def championship_titles(self):
+        return {
+            "🏅 CUESTIC Champion": {
+                "award": "First Place in Extra-Curricular Activities",
+                "recognition": "Certificate of Appreciation + Memento",
+                "achievement": "Leading diverse co-curricular initiatives"
+            },
+            "🤖 Gen'AI Hackathon": {
+                "event": "Gen'AI Work-a-thon Hackathon",
+                "project": "Agragati - AI Resume & Job Search Platform",
+                "venue": "Christ University, November 2025"
+            }
+        }
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pokemon+Solid&size=16&duration=2500&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=500&height=40&lines=🏆+League+Champion+Status+Achieved!;🌟+The+Journey+Continues..." alt="Champion Status" />
+</div>
 
 ---
 
@@ -161,9 +316,9 @@ class DeepfakeGuardian:
   
   <!-- Adaptive Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demo.vercel.app?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakLabel=58A6FF&fire=58A6FF&ring=58A6FF&stroke=1F6FEB&dates=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demo.vercel.app?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=FFFFFF&currStreakLabel=0A66C2&fire=0A66C2&ring=0A66C2&stroke=0A66C2&dates=2D333B&sideNums=0A66C2&sideLabels=2D333B" />
-    <img alt="Current Coding Streak - coder-royswarnajit" src="https://github-readme-streak-stats.demo.vercel.app?user=coder-royswarnajit" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakLabel=58A6FF&fire=58A6FF&ring=58A6FF&stroke=1F6FEB&dates=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=coder-royswarnajit&date_format=j%20M%5B%20Y%5D&background=FFFFFF&currStreakLabel=0A66C2&fire=0A66C2&ring=0A66C2&stroke=0A66C2&dates=2D333B&sideNums=0A66C2&sideLabels=2D333B" />
+    <img alt="Current Coding Streak - coder-royswarnajit" src="https://streak-stats.demolab.com?user=coder-royswarnajit" />
   </picture>
   
   <!-- Adaptive Activity Graph -->
@@ -187,8 +342,8 @@ class DeepfakeGuardian:
 <div align="center">
   
   <!-- Dynamic Live Counters -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:coder-royswarnajit+type:pr&query=$.total_count&label=PRs&logo=github&style=for-the-badge&color=0A66C2" alt="Total Pull Requests" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/issues?q=author:coder-royswarnajit+type:issue&query=$.total_count&label=Issues&logo=github&style=for-the-badge&color=0A66C2" alt="Total Issues Opened" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Acoder-royswarnajit%2Bis%3Apr&query=$.total_count&label=PRs&logo=github&style=for-the-badge&color=0A66C2" alt="Total Pull Requests" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Acoder-royswarnajit%2Bis%3Aissue&query=$.total_count&label=Issues&logo=github&style=for-the-badge&color=0A66C2" alt="Total Issues Opened" />
   <img src="https://img.shields.io/github/followers/coder-royswarnajit?label=Followers&style=for-the-badge&color=0A66C2" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/coder-royswarnajit&query=$.following&label=Following&logo=github&style=for-the-badge&color=0A66C2" alt="Following Count" />
   <!-- NOTE: A fully accurate total commits badge requires aggregation across all repos via the GraphQL API. Consider a GitHub Action + gist for that. -->
