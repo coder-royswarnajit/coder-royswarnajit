@@ -160,7 +160,7 @@ class AgragatiPlatform:
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png" width="50"> **POKÉMON RESEARCH LAB - CONFERENCE EXPEDITIONS**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVnN2ttN3ByMnBpNGFueTkycXlwNGkyaGYzYmRkMWR6eGVqajI2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThjaHJ2YzN0MmlyOW1qYjAzYmUxM2dtb254YWxubG5mYmVrNnBjcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XC9coHBhycR9mSb6LA/giphy.gif" width="300"/>
 </div>
 
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png" width="35"> **ARCEUS - Quantum Hybrid Steganography Model**
@@ -238,7 +238,7 @@ class BatteryLifeEstimationResearch:
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png" width="45"> **GYM BADGES - CERTIFICATIONS COLLECTED**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHN5YnA3NWF4Z3d4eHZ0ZXNlMnBjZ3VxOXlxcjc3cWQ0N3FtcDFtZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hTIhJeXvlRnPewkBLt/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hrdmVrbndjdWgwY21zd3luaG5pdWs0YzhnaWFlMTVybjh2d2dvNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gg95KJq8Mhml1406Bz/giphy.gif" width="250"/>
 </div>
 
 <div align="center">
@@ -264,7 +264,7 @@ class BatteryLifeEstimationResearch:
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png" width="45"> **LEAGUE CHAMPION - ACHIEVEMENTS & VICTORIES**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnU0OHd5dGV5bWN4NnV6cjZyaGphMTV4YnJxdGxqNGJrYnY2cXI5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9DPhONuz1SpCONiM/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGRtY20wZ3MxMHp3ZWFvcWY0b3MyNm1ia2ppaHhnaXIxeHdsZTQ1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uQZbEbIXJZH7FTlnOF/giphy.gif" width="250"/>
 </div>
 
 <div align="center">
